@@ -5,6 +5,7 @@ public class gowno {
         int i;
         for(i = 10; i>1; i--){
             System.out.println(67);
+            System.out.println(67);
         }
     }
 
